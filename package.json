@@ -1,0 +1,15 @@
+{
+  "name": "barek-landing",
+  "version": "1.0.0",
+  "description": "Agent skill: a calm, premium app landing page with a centred pill nav, a layered gradient glow behind one phone, and a working HTML/CSS template",
+  "type": "module",
+  "bin": { "barek-landing": "bin/install.mjs" },
+  "files": ["SKILL.md", "references", "scripts", "template", "bin"],
+  "keywords": ["claude-code", "agent-skills", "claude-skill", "landing-page", "website", "waitlist", "css", "design"],
+  "homepage": "https://github.com/Barek-Technologies/barek-landing#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/Barek-Technologies/barek-landing.git" },
+  "bugs": { "url": "https://github.com/Barek-Technologies/barek-landing/issues" },
+  "author": "Barek Technologies Limited",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
